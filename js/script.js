@@ -14,9 +14,7 @@ var typed = new Typed(".typing", {
     "",
     "Web",
     "Web Designer",
-    "Web Developer",
-    "Graphic Designer",
-    "Content Creator",
+    "Web Developer"
   ],
   typeSpeed: 100,
   BackSpeed: 60,
